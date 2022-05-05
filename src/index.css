@@ -13,3 +13,24 @@ body {
   background-color: #3f3f3f;
 }
 
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-weight: 200;
+}
+
+.logo {
+  text-align: center;
+}
+
+.img {
+    border-radius: 100px;
+    height: 10rem;
+}
